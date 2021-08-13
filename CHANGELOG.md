@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.0 (2021-08-13)
+
+Added:
+
+-   github updateReleaseAsset() method added
+
 ### 1.0.1 (2021-07-31)
 
 Fixed:
