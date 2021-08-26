@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.0 (2021-08-26)
+
+Changed:
+
+-   githun api moved to the core
+
 ### 1.1.0 (2021-08-13)
 
 Added:
