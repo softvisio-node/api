@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.0.0 (2021-09-19)
+
+Breaking changes:
+
+-   refactor!: google apis moved to core
+
 ### 1.2.0 (2021-08-26)
 
 Changed:
