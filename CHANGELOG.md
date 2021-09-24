@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.1.0 (2021-09-24)
+
+Features:
+
+-   feat: result meta property
+
 ### 2.0.0 (2021-09-19)
 
 Breaking changes:
