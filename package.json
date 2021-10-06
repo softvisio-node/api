@@ -29,6 +29,6 @@
         "fast-xml-parser": "^3.19.0"
     },
     "peerDependencies": {
-        "@softvisio/core": "^5.0.0"
+        "@softvisio/core": "^6.0.0"
     }
 }
