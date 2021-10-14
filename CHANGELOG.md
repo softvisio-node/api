@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.1.2 (2021-10-14)
+
+Fixes:
+
+-   fix: fetch Agent
+
 ### 2.1.1 (2021-10-06)
 
 No notable changes since the previous release.
