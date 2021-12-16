@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.2.0 (2021-12-16)
+
+Features:
+
+-   feat: google search api
+
 ### 2.1.2 (2021-10-14)
 
 Fixes:
