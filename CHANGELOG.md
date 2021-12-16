@@ -1,5 +1,12 @@
 # Changelog
 
+### 2.2.1 (2021-12-16)
+
+Fixes:
+
+-   fix: google search adaptive num
+-   fix: google search keepalive increased
+
 ### 2.2.0 (2021-12-16)
 
 Features:
