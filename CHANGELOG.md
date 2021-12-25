@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.2.3 (2021-12-25)
+
+Fixes:
+
+-   fix: api client init
+
 ### 2.2.2 (2021-12-24)
 
 Fixes:
