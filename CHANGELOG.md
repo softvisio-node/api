@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.0 (2022-01-06)
+
+Features:
+
+-   feat: fast-xml-parser v4
+
 ### 2.2.3 (2021-12-25)
 
 Fixes:
