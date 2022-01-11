@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.1 (2022-01-11)
+
+Fixes:
+
+-   fix: fetch chrome option removed
+
 ### 2.3.0 (2022-01-06)
 
 Features:
