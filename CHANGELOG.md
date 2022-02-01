@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.3.4 (2022-02-01)
+
+Fixes:
+
+-   fix: google selector
+
 ### 2.3.3 (2022-01-31)
 
 Fixes:
