@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.4.1 (2022-02-02)
+
+Fixes:
+
+-   fix: gsearch api
+
 ### 2.4.0 (2022-02-02)
 
 Features:
