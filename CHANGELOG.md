@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.4.0 (2022-02-02)
+
+Features:
+
+-   feat: google maps api
+
 ### 2.3.4 (2022-02-01)
 
 Fixes:
