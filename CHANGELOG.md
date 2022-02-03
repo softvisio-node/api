@@ -1,5 +1,12 @@
 # Changelog
 
+### 2.4.2 (2022-02-03)
+
+Fixes:
+
+-   fix: gmaps api cache
+-   fix: google coordinates
+
 ### 2.4.1 (2022-02-02)
 
 Fixes:
