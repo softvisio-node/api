@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.4.3 (2022-02-11)
+
+Fixes:
+
+-   fix: linkedom update
+
 ### 2.4.2 (2022-02-03)
 
 Fixes:
