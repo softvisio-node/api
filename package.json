@@ -6,10 +6,10 @@
         "softvisio",
         "api"
     ],
-    "homepage": "https://github.com/softvisio/api",
+    "homepage": "https://softvisio.github.io/api/",
     "bugs": {
         "url": "https://github.com/softvisio/api/issues",
-        "email": "zdm@softvisio.net"
+        "email": "zdm <zdm@softvisio.net>"
     },
     "repository": {
         "type": "git",
