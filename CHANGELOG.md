@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.5.0 (2022-03-23)
+
+Features:
+
+-   feat: anticaptcha api
+
 ### 2.4.4 (2022-02-21)
 
 Fixes:
