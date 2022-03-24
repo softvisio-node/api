@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.6.2 (2022-03-24)
+
+Fixes:
+
+-   fix: captcha abort signal
+
 ### 2.6.1 (2022-03-24)
 
 Fixes:
