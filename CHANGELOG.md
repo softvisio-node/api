@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.6.1 (2022-03-24)
+
+Fixes:
+
+-   fix: anticaptcha repeat if no slots available
+
 ### 2.6.0 (2022-03-24)
 
 Features:
