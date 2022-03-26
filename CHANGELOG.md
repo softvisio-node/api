@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.6.6 (2022-03-26)
+
+Fixes:
+
+-   fix: captcha type
+
 ### 2.6.5 (2022-03-26)
 
 Fixes:
