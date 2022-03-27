@@ -1,5 +1,12 @@
 # Changelog
 
+### 2.6.7 (2022-03-27)
+
+Fixes:
+
+-   fix: captcha response
+-   fix: image captcha params
+
 ### 2.6.6 (2022-03-26)
 
 Fixes:
