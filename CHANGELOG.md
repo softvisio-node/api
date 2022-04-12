@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.6.8 (2022-04-12)
+
+Fixes:
+
+-   fix: captcha api token setter
+
 ### 2.6.7 (2022-03-27)
 
 Fixes:
