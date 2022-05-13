@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.0 (2022-05-13)
+
+Features:
+
+-   feat: google places api
+
 ### 2.6.8 (2022-04-12)
 
 Fixes:
