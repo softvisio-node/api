@@ -1,5 +1,12 @@
 # Changelog
 
+### 2.7.2 (2022-06-07)
+
+Fixes:
+
+-   fix: gmaps api methods renamed
+-   fix: places api
+
 ### 2.7.1 (2022-05-28)
 
 Fixes:
