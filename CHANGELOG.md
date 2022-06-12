@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.4 (2022-06-12)
+
+Fixes:
+
+-   fix: gmaps methods renamed
+
 ### 2.7.3 (2022-06-12)
 
 Fixes:
