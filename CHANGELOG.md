@@ -1,5 +1,12 @@
 # Changelog
 
+### 2.7.3 (2022-06-12)
+
+Fixes:
+
+-   fix: gmaps autocomplete
+-   fix: gmaps api
+
 ### 2.7.2 (2022-06-07)
 
 Fixes:
