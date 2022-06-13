@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.5 (2022-06-13)
+
+Fixes:
+
+-   fix: linted
+
 ### 2.7.4 (2022-06-12)
 
 Fixes:
