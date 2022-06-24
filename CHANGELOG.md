@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.6 (2022-06-24)
+
+Fixes:
+
+-   fix: gmaps sessiontoken
+
 ### 2.7.5 (2022-06-13)
 
 Fixes:
