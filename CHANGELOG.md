@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.7.11 (2023-04-29)
+
+Fixes:
+
+-   fix: result.parse
+
 ### 2.7.10 (2023-04-25)
 
 Fixes:
