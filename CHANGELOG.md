@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.8.1 (2023-05-08)
+
+Fixes:
+
+-   fix: semaphore
+
 ### 2.8.0 (2023-05-06)
 
 Features:
