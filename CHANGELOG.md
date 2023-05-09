@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.8.4 (2023-05-09)
+
+Fixes:
+
+-   fix: pool maxRunningThreads
+
 ### 2.8.3 (2023-05-08)
 
 Fixes:
