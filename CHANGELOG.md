@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.9.0 (2023-05-29)
+
+Features:
+
+-   feat: xml
+
 ### 2.8.4 (2023-05-09)
 
 Fixes:
