@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.9.1 (2023-06-15)
+
+Fixes:
+
+-   fix: migrate to the new glob
+
 ### 2.9.0 (2023-05-29)
 
 Features:
