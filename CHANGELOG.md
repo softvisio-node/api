@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.9.2 (2023-07-06)
+
+Fixes:
+
+-   fix: linted
+
 ### 2.9.1 (2023-06-15)
 
 Fixes:
