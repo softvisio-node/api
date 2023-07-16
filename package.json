@@ -25,6 +25,12 @@
     "exports": {
         "./*": "./lib/*.js"
     },
+    "files": [
+        "/bin",
+        "/lib",
+        "/resources",
+        "/src"
+    ],
     "dependencies": {
         "linkedom": "^0.14.0",
         "random-location": "^1.1.3"
