@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.9.5 (2023-07-30)
+
+Fixes:
+
+-   fix: .dockerignore
+
 ### 2.9.4 (2023-07-17)
 
 Fixes:
