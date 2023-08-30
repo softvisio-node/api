@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.9.6 (2023-08-30)
+
+Fixes:
+
+-   fix: http agent
+
 ### 2.9.5 (2023-07-30)
 
 Fixes:
