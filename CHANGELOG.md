@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.9.8 (2023-10-20)
+
+Fixes:
+
+-   fix: package repo url
+
 ### 2.9.7 (2023-09-25)
 
 Fixes:
