@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.9.10 (2023-11-05)
+
+Fixes:
+
+-   fix: resources
+
 ### 2.9.9 (2023-10-24)
 
 Fixes:
