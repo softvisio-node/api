@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.9.21 (2024-05-27)
+
+Fixes:
+
+-   fix: while syntax
+
 ### 2.9.20 (2024-05-13)
 
 Fixes:
