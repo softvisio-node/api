@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.9.23 (2024-07-30)
+
+Fixes:
+
+-   fix: linkedom
+
 ### 2.9.22 (2024-05-29)
 
 Fixes:
