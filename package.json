@@ -32,7 +32,6 @@
         "/src"
     ],
     "dependencies": {
-        "linkedom": "^0.18.0",
         "random-location": "^1.1.3"
     },
     "peerDependencies": {
