@@ -1,5 +1,9 @@
 # Changelog
 
+### 2.9.27 (2024-08-14)
+
+No notable changes since the previous release.
+
 ### 2.9.26 (2024-08-12)
 
 No notable changes since the previous release.
