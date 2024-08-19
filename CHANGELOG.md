@@ -1,5 +1,15 @@
 # Changelog
 
+### 2.10.0 (2024-08-19)
+
+Features:
+
+-   feat: undici fetch
+
+Fixes:
+
+-   fix: api client constructor
+
 ### 2.9.27 (2024-08-14)
 
 No notable changes since the previous release.
