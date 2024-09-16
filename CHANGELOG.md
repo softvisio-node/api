@@ -1,5 +1,15 @@
 # Changelog
 
+### 2.10.5 (2024-09-16)
+
+Fixes:
+
+-   fix: archive.org api
+-   fix: bitbucket api
+-   fix: majestic api
+-   fix: moz api
+-   fix: namesilo api
+
 ### 2.10.4 (2024-09-13)
 
 No notable changes since the previous release.
