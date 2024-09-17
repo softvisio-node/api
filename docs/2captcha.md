@@ -1,12 +1,12 @@
 # Class: 2Catcha
 
 ```javascript
-import Captcha from "@softvisio/core/api/2captcha";
+import Captcha from "@softvisio/api/2captcha";
 ```
 
 ### new Catcha( url, options )
 
--   `url` <string\> | <URL\> 2captcha service HTTP URL. Must include `username` and `password` for authentication.
+-   `url` <string\> | <URL\> 2captcha service HTTP URL. Must include `username` and `password` for authentication. If parameter is not URL it used as API token. Default URL is `https://2captcha.com/`.
 -   `options` <Object\>:
     -   `proxy` <string\> | <ProxyClient\> HTTP proxy to use.
 
@@ -14,7 +14,7 @@ import Captcha from "@softvisio/core/api/2captcha";
 
 -   <ProxyClient\>
 
-HTTP proxy.
+HTTP proxy client.
 
 ### captcha.resolveNormalCaptcha( image, options )
 

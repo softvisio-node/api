@@ -1,13 +1,9 @@
 # Introduction
 
-<!-- Tell about the project -->
+Set of external services APIs.
 
 ## Install
 
 ```shell
 npm i @softvisio/api
 ```
-
-## Usage
-
-<!-- Tell about how to use the project, give code examples -->
