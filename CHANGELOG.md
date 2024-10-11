@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.10.9 (2024-10-11)
+
+No notable changes since the previous release.
+
+[Full list of the changes](https://github.com/softvisio-node/api/compare/v2.10.8...v2.10.9)
+
 ### 2.10.8 (2024-10-06)
 
 Fixes:
