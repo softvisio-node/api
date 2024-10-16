@@ -31,6 +31,9 @@
         "/resources",
         "/src"
     ],
+    "scripts": {
+        "release": "softvisio-cli package release"
+    },
     "dependencies": {
         "random-location": "^1.1.3"
     },
