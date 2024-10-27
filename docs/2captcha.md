@@ -6,7 +6,7 @@ import Captcha from "@softvisio/api/2captcha";
 
 ### new Catcha( url, options )
 
--   `url` <string\> | <URL\> 2captcha service HTTP URL. Must include `username` and `password` for authentication. If parameter is not URL it used as API token. Default URL is `https://2captcha.com/`.
+-   `url` <string\> | <URL\> 2captcha service HTTP URL. Must include `username` and `password` for authentication. If parameter is not URL it used as API token. Default URL is <https://2captcha.com/>.
 -   `options` <Object\>:
     -   `proxy` <string\> | <ProxyClient\> HTTP proxy to use.
 
