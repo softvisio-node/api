@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.10.16 (2024-10-29)
+
+Other changes:
+
+-   chore: update docs
+
+[Compare with the previous release: v2.10.15 ... v2.10.16](https://github.com/softvisio-node/api/compare/v2.10.15...v2.10.16)
+
 ### 2.10.15 (2024-10-22)
 
 No notable changes since the previous release.
