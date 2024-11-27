@@ -6,38 +6,38 @@ import Captcha from "@softvisio/api/2captcha";
 
 ### new Catcha( url, options )
 
--   `url` {string|URL} 2captcha service HTTP URL. Must include `username` and `password` for authentication. If parameter is not URL it used as API token. Default URL is <https://2captcha.com/>.
--   `options` {Object}:
-    -   `proxy` {string|ProxyClient} HTTP proxy to use.
+- `url` {string|URL} 2captcha service HTTP URL. Must include `username` and `password` for authentication. If parameter is not URL it used as API token. Default URL is <https://2captcha.com/>.
+- `options` {Object}:
+    - `proxy` {string|ProxyClient} HTTP proxy to use.
 
 ### captcha.proxy
 
--   {ProxyClient}
+- {ProxyClient}
 
 HTTP proxy client.
 
 ### captcha.resolveNormalCaptcha( image, options )
 
--   `image` {Buffer} Captcha image.
--   `options` {Object} To see full list of options refer to the [official documentation](https://2captcha.com/2captcha-api#solving_normal_captcha).
--   Returns: {Promise}.
+- `image` {Buffer} Captcha image.
+- `options` {Object} To see full list of options refer to the [official documentation](https://2captcha.com/2captcha-api#solving_normal_captcha).
+- Returns: {Promise}.
 
 ### captcha.resolveReCaptchaV2( siteKey, pageURL )
 
--   `siteKey` {string} Site key.
--   `pageURL` {string} Page URL.
--   Returns: {Promise}.
+- `siteKey` {string} Site key.
+- `pageURL` {string} Page URL.
+- Returns: {Promise}.
 
 Resolve google recaptcha v2. [Official documentation](https://2captcha.com/2captcha-api#solving_recaptchav2_new).
 
 ### captcha.resolveInvisibleReCaptchaV2( siteKey, pageURL, options )
 
--   `siteKey` {string} Site key.
--   `pageURL` {string} Page URL.
--   `options` {Object}:
-    -   `data` {string}.
-    -   `userAgent` {string}.
-    -   `cookies` {Object}.
--   Returns: {Promise}.
+- `siteKey` {string} Site key.
+- `pageURL` {string} Page URL.
+- `options` {Object}:
+    - `data` {string}.
+    - `userAgent` {string}.
+    - `cookies` {Object}.
+- Returns: {Promise}.
 
 Resolve invisible google recaptcha v2. [Official documentation](https://2captcha.com/2captcha-api#invisible).

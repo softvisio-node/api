@@ -1,9 +1,9 @@
--   [Introduction](/)
+- [Introduction](/)
 
 **APIs**
 
--   [2captcha](/2captcha.md)
+- [2captcha](/2captcha.md)
 
 **Links**
 
--   [Changelog](/changelog)
+- [Changelog](/changelog)
