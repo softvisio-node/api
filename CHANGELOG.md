@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.10.19 (2024-11-27)
+
+Other changes:
+
+- chore: update package metadata
+
+[Compare with the previous release: v2.10.18 ... v2.10.19](https://github.com/softvisio-node/api/compare/v2.10.18...v2.10.19)
+
 ### 2.10.18 (2024-11-27)
 
 Other changes:
