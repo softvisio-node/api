@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.10.21 (2024-12-30)
+
+Other changes:
+
+- chore: update net proxy import
+
+[Compare with the previous release: v2.10.20 ... v2.10.21](https://github.com/softvisio-node/api/compare/v2.10.20...v2.10.21)
+
 ### 2.10.20 (2024-12-07)
 
 Other changes:
