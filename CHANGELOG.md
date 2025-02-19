@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.10.23 (2025-02-19)
+
+Other changes:
+
+- chore: update cli config
+
+Compare with the previous release: [`v2.10.22...v2.10.23`](https://github.com/softvisio-node/api/compare/v2.10.22...v2.10.23)
+
 ### 2.10.22 (2025-01-08)
 
 Other changes:
