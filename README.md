@@ -8,6 +8,6 @@ Set of external services APIs.
 
 ## Install
 
-```shell
+```sh
 npm install @softvisio/api
 ```
