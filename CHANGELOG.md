@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.30 (2025-05-16)
+
+**Other changes:**
+
+- \[PATCH] chore: minor code update (👬 zdm)
+
+Compare with the previous release: [`v2.10.29...v2.10.30`](https://github.com/softvisio-node/api/compare/v2.10.29...v2.10.30)
+
 ### 2.10.29 (2025-03-26)
 
 Other changes:
