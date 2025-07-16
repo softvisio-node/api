@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.33 (2025-07-16)
+
+**Other changes:**
+
+- docs: update (● [4d505aa](https://github.com/softvisio-node/api/commit/4d505aa); 👬 zdm)
+
+Compare with the previous release: [v2.10.32](https://github.com/softvisio-node/api/compare/v2.10.32...v2.10.33)
+
 ### v2.10.32 (2025-06-07)
 
 **Other changes:**
