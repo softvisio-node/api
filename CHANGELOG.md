@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.37 (2025-07-23)
+
+**Other changes:**
+
+- style: update .npmrc (● [cf6a0fc](https://github.com/softvisio-node/api/commit/cf6a0fc); 👬 zdm)
+
+Compare with the previous release: [v2.10.36](https://github.com/softvisio-node/api/compare/v2.10.36...v2.10.37)
+
 ### v2.10.36 (2025-07-23)
 
 **Bug fixes:**
