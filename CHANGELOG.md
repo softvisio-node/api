@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.38 (2025-08-09)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update xml api (● [a99d3d9](https://github.com/softvisio-node/api/commit/a99d3d9); 👬 zdm)
+
+Compare with the previous release: [v2.10.37](https://github.com/softvisio-node/api/compare/v2.10.37...v2.10.38)
+
 ### v2.10.37 (2025-07-23)
 
 **Other changes:**
