@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.39 (2025-10-26)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: replace quoteMeta with RegExp.escape (● [6b6be74](https://github.com/softvisio-node/api/commit/6b6be74); 👬 zdm)
+
+Compare with the previous release: [v2.10.38](https://github.com/softvisio-node/api/compare/v2.10.38...v2.10.39)
+
 ### v2.10.38 (2025-08-09)
 
 **Code refactoring:**
