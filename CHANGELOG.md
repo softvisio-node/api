@@ -1,5 +1,11 @@
 # Changelog
 
+### v2.10.40 (2025-10-30)
+
+No changes since the previous release.
+
+Compare with the previous release: [v2.10.39](https://github.com/softvisio-node/api/compare/v2.10.39...v2.10.40)
+
 ### v2.10.39 (2025-10-26)
 
 **Code refactoring:**
