@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.42 (2025-12-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update form data api (● [113d472](https://github.com/softvisio-node/api/commit/113d472); 👬 zdm)
+
+Compare with the previous release: [v2.10.41](https://github.com/softvisio-node/api/compare/v2.10.41...v2.10.42)
+
 ### v2.10.41 (2025-10-30)
 
 No changes since the previous release.
