@@ -4,83 +4,83 @@
 
 No changes since the previous release.
 
-Compare with the previous release: [v2.10.42](https://github.com/softvisio-node/api/compare/v2.10.42...v2.10.43)
+Compare with the previous release: [v2.10.42](https://github.com/c0rejs/api/compare/v2.10.42...v2.10.43)
 
 ### v2.10.42 (2025-12-03)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update form data api (● [113d472](https://github.com/softvisio-node/api/commit/113d472); 👬 zdm)
+- \[PATCH] fix: update form data api (● [113d472](https://github.com/c0rejs/api/commit/113d472); 👬 zdm)
 
-Compare with the previous release: [v2.10.41](https://github.com/softvisio-node/api/compare/v2.10.41...v2.10.42)
+Compare with the previous release: [v2.10.41](https://github.com/c0rejs/api/compare/v2.10.41...v2.10.42)
 
 ### v2.10.41 (2025-10-30)
 
 No changes since the previous release.
 
-Compare with the previous release: [v2.10.40](https://github.com/softvisio-node/api/compare/v2.10.40...v2.10.41)
+Compare with the previous release: [v2.10.40](https://github.com/c0rejs/api/compare/v2.10.40...v2.10.41)
 
 ### v2.10.40 (2025-10-30)
 
 No changes since the previous release.
 
-Compare with the previous release: [v2.10.39](https://github.com/softvisio-node/api/compare/v2.10.39...v2.10.40)
+Compare with the previous release: [v2.10.39](https://github.com/c0rejs/api/compare/v2.10.39...v2.10.40)
 
 ### v2.10.39 (2025-10-26)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: replace quoteMeta with RegExp.escape (● [6b6be74](https://github.com/softvisio-node/api/commit/6b6be74); 👬 zdm)
+- \[PATCH] refactor: replace quoteMeta with RegExp.escape (● [6b6be74](https://github.com/c0rejs/api/commit/6b6be74); 👬 zdm)
 
-Compare with the previous release: [v2.10.38](https://github.com/softvisio-node/api/compare/v2.10.38...v2.10.39)
+Compare with the previous release: [v2.10.38](https://github.com/c0rejs/api/compare/v2.10.38...v2.10.39)
 
 ### v2.10.38 (2025-08-09)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: update xml api (● [a99d3d9](https://github.com/softvisio-node/api/commit/a99d3d9); 👬 zdm)
+- \[PATCH] refactor: update xml api (● [a99d3d9](https://github.com/c0rejs/api/commit/a99d3d9); 👬 zdm)
 
-Compare with the previous release: [v2.10.37](https://github.com/softvisio-node/api/compare/v2.10.37...v2.10.38)
+Compare with the previous release: [v2.10.37](https://github.com/c0rejs/api/compare/v2.10.37...v2.10.38)
 
 ### v2.10.37 (2025-07-23)
 
 **Other changes:**
 
-- style: update .npmrc (● [cf6a0fc](https://github.com/softvisio-node/api/commit/cf6a0fc); 👬 zdm)
+- style: update .npmrc (● [cf6a0fc](https://github.com/c0rejs/api/commit/cf6a0fc); 👬 zdm)
 
-Compare with the previous release: [v2.10.36](https://github.com/softvisio-node/api/compare/v2.10.36...v2.10.37)
+Compare with the previous release: [v2.10.36](https://github.com/c0rejs/api/compare/v2.10.36...v2.10.37)
 
 ### v2.10.36 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [0fd7200](https://github.com/softvisio-node/api/commit/0fd7200); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [0fd7200](https://github.com/c0rejs/api/commit/0fd7200); 👬 zdm)
 
-Compare with the previous release: [v2.10.35](https://github.com/softvisio-node/api/compare/v2.10.35...v2.10.36)
+Compare with the previous release: [v2.10.35](https://github.com/c0rejs/api/compare/v2.10.35...v2.10.36)
 
 ### v2.10.35 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [6092740](https://github.com/softvisio-node/api/commit/6092740); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [6092740](https://github.com/c0rejs/api/commit/6092740); 👬 zdm)
 
-Compare with the previous release: [v2.10.34](https://github.com/softvisio-node/api/compare/v2.10.34...v2.10.35)
+Compare with the previous release: [v2.10.34](https://github.com/c0rejs/api/compare/v2.10.34...v2.10.35)
 
 ### v2.10.34 (2025-07-16)
 
 **Other changes:**
 
-- style: lint (● [646b196](https://github.com/softvisio-node/api/commit/646b196); 👬 zdm)
+- style: lint (● [646b196](https://github.com/c0rejs/api/commit/646b196); 👬 zdm)
 
-Compare with the previous release: [v2.10.33](https://github.com/softvisio-node/api/compare/v2.10.33...v2.10.34)
+Compare with the previous release: [v2.10.33](https://github.com/c0rejs/api/compare/v2.10.33...v2.10.34)
 
 ### v2.10.33 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [4d505aa](https://github.com/softvisio-node/api/commit/4d505aa); 👬 zdm)
+- docs: update (● [4d505aa](https://github.com/c0rejs/api/commit/4d505aa); 👬 zdm)
 
-Compare with the previous release: [v2.10.32](https://github.com/softvisio-node/api/compare/v2.10.32...v2.10.33)
+Compare with the previous release: [v2.10.32](https://github.com/c0rejs/api/compare/v2.10.32...v2.10.33)
 
 ### v2.10.32 (2025-06-07)
 
@@ -88,7 +88,7 @@ Compare with the previous release: [v2.10.32](https://github.com/softvisio-node/
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v2.10.31](https://github.com/softvisio-node/api/compare/v2.10.31...v2.10.32)
+Compare with the previous release: [v2.10.31](https://github.com/c0rejs/api/compare/v2.10.31...v2.10.32)
 
 ### v2.10.31 (2025-06-01)
 
@@ -96,7 +96,7 @@ Compare with the previous release: [v2.10.31](https://github.com/softvisio-node/
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v2.10.30](https://github.com/softvisio-node/api/compare/v2.10.30...v2.10.31)
+Compare with the previous release: [v2.10.30](https://github.com/c0rejs/api/compare/v2.10.30...v2.10.31)
 
 ### v2.10.30 (2025-05-16)
 
@@ -104,7 +104,7 @@ Compare with the previous release: [v2.10.30](https://github.com/softvisio-node/
 
 - \[PATCH] chore: minor code update (👬 zdm)
 
-Compare with the previous release: [`v2.10.29...v2.10.30`](https://github.com/softvisio-node/api/compare/v2.10.29...v2.10.30)
+Compare with the previous release: [`v2.10.29...v2.10.30`](https://github.com/c0rejs/api/compare/v2.10.29...v2.10.30)
 
 ### 2.10.29 (2025-03-26)
 
@@ -112,7 +112,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v2.10.28...v2.10.29`](https://github.com/softvisio-node/api/compare/v2.10.28...v2.10.29)
+Compare with the previous release: [`v2.10.28...v2.10.29`](https://github.com/c0rejs/api/compare/v2.10.28...v2.10.29)
 
 ### 2.10.28 (2025-03-04)
 
@@ -120,7 +120,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v2.10.27...v2.10.28`](https://github.com/softvisio-node/api/compare/v2.10.27...v2.10.28)
+Compare with the previous release: [`v2.10.27...v2.10.28`](https://github.com/c0rejs/api/compare/v2.10.27...v2.10.28)
 
 ### 2.10.27 (2025-03-04)
 
@@ -128,7 +128,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v2.10.26...v2.10.27`](https://github.com/softvisio-node/api/compare/v2.10.26...v2.10.27)
+Compare with the previous release: [`v2.10.26...v2.10.27`](https://github.com/c0rejs/api/compare/v2.10.26...v2.10.27)
 
 ### 2.10.26 (2025-02-27)
 
@@ -136,7 +136,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v2.10.25...v2.10.26`](https://github.com/softvisio-node/api/compare/v2.10.25...v2.10.26)
+Compare with the previous release: [`v2.10.25...v2.10.26`](https://github.com/c0rejs/api/compare/v2.10.25...v2.10.26)
 
 ### 2.10.25 (2025-02-26)
 
@@ -144,7 +144,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v2.10.24...v2.10.25`](https://github.com/softvisio-node/api/compare/v2.10.24...v2.10.25)
+Compare with the previous release: [`v2.10.24...v2.10.25`](https://github.com/c0rejs/api/compare/v2.10.24...v2.10.25)
 
 ### 2.10.24 (2025-02-19)
 
@@ -152,7 +152,7 @@ Other changes:
 
 - chore: update xml parser
 
-Compare with the previous release: [`v2.10.23...v2.10.24`](https://github.com/softvisio-node/api/compare/v2.10.23...v2.10.24)
+Compare with the previous release: [`v2.10.23...v2.10.24`](https://github.com/c0rejs/api/compare/v2.10.23...v2.10.24)
 
 ### 2.10.23 (2025-02-19)
 
@@ -160,7 +160,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v2.10.22...v2.10.23`](https://github.com/softvisio-node/api/compare/v2.10.22...v2.10.23)
+Compare with the previous release: [`v2.10.22...v2.10.23`](https://github.com/c0rejs/api/compare/v2.10.22...v2.10.23)
 
 ### 2.10.22 (2025-01-08)
 
@@ -168,7 +168,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.10.21 ... v2.10.22](https://github.com/softvisio-node/api/compare/v2.10.21...v2.10.22)
+[Compare with the previous release: v2.10.21 ... v2.10.22](https://github.com/c0rejs/api/compare/v2.10.21...v2.10.22)
 
 ### 2.10.21 (2024-12-30)
 
@@ -176,7 +176,7 @@ Other changes:
 
 - chore: update net proxy import
 
-[Compare with the previous release: v2.10.20 ... v2.10.21](https://github.com/softvisio-node/api/compare/v2.10.20...v2.10.21)
+[Compare with the previous release: v2.10.20 ... v2.10.21](https://github.com/c0rejs/api/compare/v2.10.20...v2.10.21)
 
 ### 2.10.20 (2024-12-07)
 
@@ -184,7 +184,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v2.10.19 ... v2.10.20](https://github.com/softvisio-node/api/compare/v2.10.19...v2.10.20)
+[Compare with the previous release: v2.10.19 ... v2.10.20](https://github.com/c0rejs/api/compare/v2.10.19...v2.10.20)
 
 ### 2.10.19 (2024-11-27)
 
@@ -192,7 +192,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.10.18 ... v2.10.19](https://github.com/softvisio-node/api/compare/v2.10.18...v2.10.19)
+[Compare with the previous release: v2.10.18 ... v2.10.19](https://github.com/c0rejs/api/compare/v2.10.18...v2.10.19)
 
 ### 2.10.18 (2024-11-27)
 
@@ -200,7 +200,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.10.17 ... v2.10.18](https://github.com/softvisio-node/api/compare/v2.10.17...v2.10.18)
+[Compare with the previous release: v2.10.17 ... v2.10.18](https://github.com/c0rejs/api/compare/v2.10.17...v2.10.18)
 
 ### 2.10.17 (2024-11-07)
 
@@ -208,7 +208,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.10.16 ... v2.10.17](https://github.com/softvisio-node/api/compare/v2.10.16...v2.10.17)
+[Compare with the previous release: v2.10.16 ... v2.10.17](https://github.com/c0rejs/api/compare/v2.10.16...v2.10.17)
 
 ### 2.10.16 (2024-10-29)
 
@@ -216,49 +216,49 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v2.10.15 ... v2.10.16](https://github.com/softvisio-node/api/compare/v2.10.15...v2.10.16)
+[Compare with the previous release: v2.10.15 ... v2.10.16](https://github.com/c0rejs/api/compare/v2.10.15...v2.10.16)
 
 ### 2.10.15 (2024-10-22)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/api/compare/v2.10.14...v2.10.15)
+[Full list of the changes](https://github.com/c0rejs/api/compare/v2.10.14...v2.10.15)
 
 ### 2.10.14 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/api/compare/v2.10.13...v2.10.14)
+[Full list of the changes](https://github.com/c0rejs/api/compare/v2.10.13...v2.10.14)
 
 ### 2.10.13 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/api/compare/v2.10.12...v2.10.13)
+[Full list of the changes](https://github.com/c0rejs/api/compare/v2.10.12...v2.10.13)
 
 ### 2.10.12 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/api/compare/v2.10.11...v2.10.12)
+[Full list of the changes](https://github.com/c0rejs/api/compare/v2.10.11...v2.10.12)
 
 ### 2.10.11 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/api/compare/v2.10.10...v2.10.11)
+[Full list of the changes](https://github.com/c0rejs/api/compare/v2.10.10...v2.10.11)
 
 ### 2.10.10 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/api/compare/v2.10.9...v2.10.10)
+[Full list of the changes](https://github.com/c0rejs/api/compare/v2.10.9...v2.10.10)
 
 ### 2.10.9 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/api/compare/v2.10.8...v2.10.9)
+[Full list of the changes](https://github.com/c0rejs/api/compare/v2.10.8...v2.10.9)
 
 ### 2.10.8 (2024-10-06)
 
