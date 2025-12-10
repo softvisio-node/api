@@ -6,14 +6,14 @@
         "softvisio",
         "api"
     ],
-    "homepage": "https://softvisio-node.github.io/api/",
+    "homepage": "https://c0rejs.github.io/api/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/api/issues",
+        "url": "https://github.com/c0rejs/api/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/softvisio-node/api.git"
+        "url": "git+https://github.com/c0rejs/api.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
