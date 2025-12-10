@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.10.44 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [01b52e7](https://github.com/c0rejs/api/commit/01b52e7), [2ee65c7](https://github.com/c0rejs/api/commit/2ee65c7), [d55dd01](https://github.com/c0rejs/api/commit/d55dd01), [4b4d59d](https://github.com/c0rejs/api/commit/4b4d59d); 👬 zdm)
+
+- chore(metadata): update package metadata (● [42653f5](https://github.com/c0rejs/api/commit/42653f5); 👬 zdm)
+
+Compare with the previous release: [v2.10.43](https://github.com/c0rejs/api/compare/v2.10.43...v2.10.44)
+
 ### v2.10.43 (2025-12-03)
 
 No changes since the previous release.
