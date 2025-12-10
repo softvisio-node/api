@@ -1,5 +1,5 @@
 {
-    "name": "@softvisio/api",
+    "name": "@c0rejs/api",
     "version": "2.10.43",
     "description": "API",
     "keywords": [
@@ -19,7 +19,7 @@
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@softvisio/core/*",
+        "#core/*": "@c0rejs/core/*",
         "#lib/*": "./lib/*.js"
     },
     "exports": {
@@ -35,6 +35,6 @@
         "random-location": "^1.1.3"
     },
     "peerDependencies": {
-        "@softvisio/core": "^7.0.0"
+        "@c0rejs/core": "^7.0.0"
     }
 }

@@ -5,5 +5,5 @@ Set of external services APIs.
 ## Install
 
 ```sh
-npm install @softvisio/api
+npm install @c0rejs/api
 ```
