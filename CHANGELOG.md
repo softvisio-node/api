@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.10.45 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [a0d75c5](https://github.com/c0rejs/api/commit/a0d75c5); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [289f52e](https://github.com/c0rejs/api/commit/289f52e); 👬 zdm)
+
+Compare with the previous release: [v2.10.44](https://github.com/c0rejs/api/compare/v2.10.44...v2.10.45)
+
 ### v2.10.44 (2025-12-10)
 
 **Other changes:**
