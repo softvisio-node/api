@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.46 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [a3daf1e](https://github.com/c0rejs/api/commit/a3daf1e); 👬 zdm)
+
+Compare with the previous release: [v2.10.45](https://github.com/c0rejs/api/compare/v2.10.45...v2.10.46)
+
 ### v2.10.45 (2025-12-11)
 
 **Bug fixes:**
