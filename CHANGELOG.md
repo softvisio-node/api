@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.50 (2026-01-28)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [5345498](https://github.com/c0rejs/api/commit/5345498); 👬 zdm)
+
+Compare with the previous release: [v2.10.49](https://github.com/c0rejs/api/compare/v2.10.49...v2.10.50)
+
 ### v2.10.49 (2026-01-27)
 
 No changes since the previous release.
