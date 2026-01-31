@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.52 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [8ca7e9a](https://github.com/corejslib/api/commit/8ca7e9a), [f757800](https://github.com/corejslib/api/commit/f757800); 👬 zdm)
+
+Compare with the previous release: [v2.10.51](https://github.com/corejslib/api/compare/v2.10.51...v2.10.52)
+
 ### v2.10.51 (2026-01-29)
 
 No changes since the previous release.
