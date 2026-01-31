@@ -1,25 +1,25 @@
 {
-    "name": "@c0rejs/api",
+    "name": "@corejslib/api",
     "version": "2.10.51",
     "description": "API",
     "keywords": [
         "softvisio",
         "api"
     ],
-    "homepage": "https://c0rejs.github.io/api/",
+    "homepage": "https://corejslib.github.io/api/",
     "bugs": {
-        "url": "https://github.com/c0rejs/api/issues",
+        "url": "https://github.com/corejslib/api/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/c0rejs/api.git"
+        "url": "git+https://github.com/corejslib/api.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@c0rejs/core/*",
+        "#core/*": "@corejslib/core/*",
         "#lib/*": "./lib/*.js"
     },
     "exports": {
@@ -35,6 +35,6 @@
         "random-location": "^1.1.3"
     },
     "peerDependencies": {
-        "@c0rejs/core": "^7.0.0"
+        "@corejslib/core": "^7.0.0"
     }
 }

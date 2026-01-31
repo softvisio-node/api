@@ -1,7 +1,7 @@
 # Class: 2Catcha
 
 ```javascript
-import Captcha from "@c0rejs/api/2captcha";
+import Captcha from "@corejslib/api/2captcha";
 ```
 
 ### new Catcha( url, options )
