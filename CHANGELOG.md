@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.54 (2026-02-01)
+
+**Bug fixes:**
+
+- \[PATCH] fix: convert http method name to upper case (● [bb53b0e](https://github.com/corejslib/api/commit/bb53b0e); 👬 zdm)
+
+Compare with the previous release: [v2.10.53](https://github.com/corejslib/api/compare/v2.10.53...v2.10.54)
+
 ### v2.10.53 (2026-01-31)
 
 **Other changes:**
