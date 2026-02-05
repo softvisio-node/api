@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.55 (2026-02-05)
+
+**Other changes:**
+
+- chore: remove @zdm npm registry (● [b58b20f](https://github.com/corejslib/api/commit/b58b20f); 👬 zdm)
+
+Compare with the previous release: [v2.10.54](https://github.com/corejslib/api/compare/v2.10.54...v2.10.55)
+
 ### v2.10.54 (2026-02-01)
 
 **Bug fixes:**
