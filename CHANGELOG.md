@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.56 (2026-03-02)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix bitbucket api (● [5c2f795](https://github.com/corejslib/api/commit/5c2f795), [db93513](https://github.com/corejslib/api/commit/db93513); 👬 zdm)
+
+Compare with the previous release: [v2.10.55](https://github.com/corejslib/api/compare/v2.10.55...v2.10.56)
+
 ### v2.10.55 (2026-02-05)
 
 **Other changes:**
