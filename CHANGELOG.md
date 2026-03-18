@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.58 (2026-03-18)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [1f0e3bb](https://github.com/corejslib/api/commit/1f0e3bb); 👬 zdm)
+
+Compare with the previous release: [v2.10.57](https://github.com/corejslib/api/compare/v2.10.57...v2.10.58)
+
 ### v2.10.57 (2026-03-06)
 
 **Other changes:**
