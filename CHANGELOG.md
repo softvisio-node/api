@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.61 (2026-05-11)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename result.catch() to result.fromError() (● [160455e](https://github.com/corejslib/api/commit/160455e); 👬 zdm)
+
+Compare with the previous release: [v2.10.60...v2.10.61](https://github.com/corejslib/api/compare/v2.10.60...v2.10.61)
+
 ### v2.10.60 (2026-05-07)
 
 **Code refactoring:**
