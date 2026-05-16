@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.63 (2026-05-16)
+
+**Other changes:**
+
+- docs: update (● [079a87b](https://github.com/corejslib/api/commit/079a87b); 👬 zdm)
+
+Compare with the previous release: [v2.10.62...v2.10.63](https://github.com/corejslib/api/compare/v2.10.62...v2.10.63)
+
 ### v2.10.62 (2026-05-16)
 
 **Other changes:**
